@@ -1,0 +1,90 @@
+*{
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+   font-family:'segoe UI',Tahoma,Geneva,Verdana,sans-serif;
+   
+ }
+
+.MyhomeT{
+   display:flex;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+}
+.video{
+   position:absolute;
+    top: 0;
+    left: 0;
+    right:0;
+    bottom: 0;
+    height:100vh;
+    width: 100%;
+    object-fit:cover;
+    z-index: -1;
+  }
+  .titel{
+   position: relative;
+   display: flex;
+   justify-content: center; 
+   align-items: center;
+   text-align: center;
+   margin-top:250px;
+   margin-bottom:30px;
+   margin-left:639px ;
+   width: 45px;
+   font-size: 45PX;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+  
+    }
+    .tite2{
+      position: relative;
+      display: flex;
+      justify-content: center; 
+      align-items: center;
+      margin-bottom:400px;
+      margin-left:610px ;
+      text-decoration: none;
+      direction:initial;
+      font-size: 20PX;
+      border: 6px;
+      border-color: black;
+      border-radius: 6px;
+      width: 100px;
+      color: #000;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      padding:10px 2px ;
+      
+       }
+       .tite2:hover{
+         background-color:#999;
+         transition: all 0.5s;
+        
+         
+ }
+   .Mybtn{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+   background-color:rgba(255, 248, 220, 0.205);
+    border-radius: 6px; 
+   padding:10px 2px ;
+   border: 5px;
+   margin-bottom:6px;
+   margin-left: 4px;
+   margin-right: 4px;
+   font-size: 20px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+   }.Mybtn:hover{
+      background-color:#777;
+      transition: all 0.5s;
+      
+   }
+   .Mybtn1{
+      margin-top: auto;
+   }
+
+  

@@ -1,0 +1,26 @@
+.ItemPhone{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 6px;
+   
+}
+.ItemPhoneT{
+    font-size: 50PX;
+    margin-bottom: 20PX;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.ItemPhoneText{
+    font-size: 25PX;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 10px;
+}
+.ItemPhoneM{
+width:15rem;
+height: auto;
+border-radius:6PX;
+border-color: black;
+
+}

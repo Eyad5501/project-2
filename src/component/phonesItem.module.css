@@ -1,0 +1,24 @@
+.ItemPhones{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 6px;
+    
+
+}.ItemPhoneslink{
+    text-decoration: none;
+    direction:initial;
+    background-color:white;
+    font-size: 16px;
+    padding:5px;
+    border-radius: 6px;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}.ItemPhoneslink:hover{
+    background-color:#999;
+    transition: all 0.5s;
+}.ItemPhonestitle{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+}

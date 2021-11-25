@@ -1,0 +1,18 @@
+.mybtu{
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+   background-color:rgba(255, 248, 220, 0.205);
+    border-radius: 6px; 
+   font-size: 20px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   text-decoration: none;
+   color: black;
+   border: black;
+}
+.mybtu:hover{
+    background-color:#777;
+    transition: all 0.5s;
+    
+ }

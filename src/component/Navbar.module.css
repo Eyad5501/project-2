@@ -1,0 +1,10 @@
+.Nav{
+    position:sticky !important;
+   
+}
+.Nav1{
+    margin-left: 700px;
+    font-size: 25px;
+    padding: 5px;
+    background-color: transparent;
+}

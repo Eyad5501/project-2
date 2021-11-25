@@ -1,0 +1,28 @@
+.formInput {
+    background-color: rgb(228, 228, 228);
+    box-shadow: 7px 10px 7px -7px rgba(0, 0, 0, 0.9);
+    -webkit-box-shadow: 7px 10px 7px -7px rgba(0, 0, 0, 0.9);
+    -moz-box-shadow: 7px 10px 7px -7px rgba(0, 0, 0, 0.9);
+    border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    width: 50px;
+    margin: auto;
+    width: 40%;
+    padding: 10px;
+    margin-top: 100px;
+
+
+
+}
+
+.formText {
+    /* margin-right: 150px; */
+    margin-left: 60px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+
+
+
+
+}
